@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Github User Finder</string>
+    <string name="str_hint_username">Input username here</string>
+    <string name="str_search_button">Search</string>
+    <string name="str_username_default">Username</string>
+    <string name="str_title_server_error">Server dalam pemeliharaan</string>
+    <string name="str_msg_server_error">Coba lakukan pencarian beberapa saat lagi.</string>
+    <string name="str_title_network_error">Tidak ada koneksi internet</string>
+    <string name="str_msg_network_error">Periksa dan pastikan jaringan internet anda tersedia.\nApplikasi ini membutuhkan akses internet untuk melakukan pencarian.</string>
+    <string name="str_title_data_notfound_error">Data user tidak ditemukan</string>
+    <string name="str_msg_data_notfound_error">Tidak terdapat data dengan username tersebut. \nCoba cari dengan nama lain.</string>
+    <string name="str_title_data_notvalid_error">Data user tidak valid</string>
+    <string name="str_msg_data_notvalid_error">Silahkan isi data user dengan kata-kata yang lain.</string>
+    <string name="str_title_data_process_error">Terjadi kesalahan dalam memproses pencarian</string>
+    <string name="str_msg_data_process_error">Terjadi kesalahan dalam memproses data hasil pencarian, silahkan coba beberapa saat lagi.</string>
+</resources>
